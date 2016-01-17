@@ -1,0 +1,5 @@
+module Ruboty
+  module Cron
+    VERSION = "0.0.9"
+  end
+end
